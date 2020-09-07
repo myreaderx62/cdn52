@@ -1,0 +1,957 @@
+<!DOCTYPE html>
+<html itemscope="" itemtype="http://schema.org/WebPage" lang="bg" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<title>Информационна Агенция &quot;Фокус&quot;</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive">
+<meta property="og:title" content="Информационна Агенция &quot;Фокус&quot;" />
+<meta property="og:image" content="http://images.focus-news.net/38ae1b84f7dbe353e6426359a9ba2cbd.jpg" />
+<meta property="og:site_name" content="Информационна Агенция &quot;Фокус&quot;" />
+<meta property="og:description" content="Информационна Агенция &quot;Фокус&quot; е единствената българска информационна агенция, която разпространява новини на български и английски език в продължение на 24 часа, всяко денонощие, през цялата година." />
+<base href="http://www.focus-news.net/" />
+<meta name="keywords" content="Новини,Институции,Политика,Икономика,Финанси,Национална сигурност,Полиция,Здравеопазване,Общество,Култура,Трафик,Световна криза,Европейски съюз,Балкани" />
+<meta name="description" content="Информационна Агенция &quot;Фокус&quot; е единствената българска информационна агенция, която разпространява новини на български и английски език в продължение на 24 часа, всяко денонощие, през цялата година." />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="google-site-verification" content="twBphL7-Ew3VGnooWeUYSJFNp1R2XjNgrcQHxa78RJ8" />
+<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
+
+
+<link href="./css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/css/cookieconsent.min.css" />
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<link href="https://cdn.jsdelivr.net/jquery.slick/1.4.1/slick.css" rel="stylesheet" >
+<script src="https://cdn.jsdelivr.net/jquery.slick/1.4.1/slick.min.js" ></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js" ></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js.map" ></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js" ></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js.map" ></script>
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+    <!-- Custom styles for this site -->
+    <link href="https://fonts.googleapis.com/css?family=Istok+Web:400,400i,700,700i&display=swap&subset=cyrillic" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i&display=swap&subset=cyrillic" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,600,700&display=swap&subset=cyrillic" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap&subset=cyrillic" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap&subset=cyrillic" rel="stylesheet"> 
+    <!-- Custom styles for this site -->
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="./css/style.css" rel="stylesheet">
+	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5d77d892b5107146"></script> 
+<!-- <script type="text/javascript">setInterval("location.reload()", 300000);</script> -->
+<!--[if IE 7]>
+  <link rel="stylesheet" type="text/css" media="all" href="./css/style7.css" />
+<![endif]-->
+<script type="text/javascript">
+function OpenMyLoveMarks() {
+	$.prettyPhoto.open('http://www.focus-news.net/images/loveMarks.jpg');
+}
+
+	$(document).ready(function() {
+		
+                $('.menu140,#sub140').hover(function() {
+                    
+                    $('#sub140').css('display','block');
+                    $('.menu140').addClass('menuulliahover');
+                }, function() {
+                    $('#sub140').css('display','none');
+                    $('.menu140').removeClass('menuulliahover');
+                    
+                });
+				
+				 $('.menu68,#sub68').hover(function() {
+                    
+                    $('#sub68').css('display','block');
+                    $('.menu68').addClass('menuulliahover');
+                }, function() {
+                    $('#sub68').css('display','none');
+                    $('.menu68').removeClass('menuulliahover');
+                    
+                });
+				
+				 $('.menu134,#sub134').hover(function() {
+                    
+                    $('#sub134').css('display','block');
+                    $('.menu134').addClass('menuulliahover');
+                }, function() {
+                    $('#sub134').css('display','none');
+                    $('.menu134').removeClass('menuulliahover');
+                    
+                });
+                
+                $('.submenuLink:first').addClass('submenuLinkHover');
+                
+                $(".submenuLink,.subMenuBoxes").mouseover(function(){
+                    iId = $(this).data('id');
+                    $('.subMenuBoxes').css('display','none');
+                    $('#subCat'+iId).css('display','block');
+                    
+                    
+                    $('.submenuLink_'+iId).removeClass('submenuLink');
+                    $('.submenuLinkHover').addClass('submenuLink');
+                    $('.submenuLinkHover').removeClass('submenuLinkHover');
+                    $('.submenuLink_'+iId).addClass('submenuLinkHover');
+                    
+                });
+                
+                $('div#nfh_pgr').css({ opacity: 0.50, display: 'block', "z-index": 99, position: 'absolute' } );
+	 	$('div.img-oftd-title').css({ opacity: 0.80 } );
+	 	$('span.imgsource').css({ opacity: 0.50, display: 'block' } );
+		$('#top_news_stack_holder').fadeIn();
+		$('#top_news_loader').fadeOut();
+		$('a[rel="external"]').click( function() {
+			window.open( $(this).attr('href') );
+			return false;
+		});
+		
+		$("a[rel^='prettyPhoto']").prettyPhoto({
+			animationSpeed: 'normal',
+			opacity: 0.60,
+			show_title: false,
+			social_tools: '',
+			deeplinking: false
+		});
+		$.fn.prettyPhoto({social_tools: false});
+	
+		$("a.nohref").click(function(cyk) {
+			cyk.preventDefault();
+		});
+
+		 $('.ih-ttl a').click(function(){
+			 $('.ih-ttl a').removeClass('ih-ttl-active');
+			 $(this).addClass('ih-ttl-active');
+		});
+
+		$('#int-href').click(function(){
+			showints();
+		});
+		$('#bg-href').click(function(){
+			showbgs();
+		});
+		$('#all-href').click(function(){
+			showalls();
+		});
+		$('.inner-cat-title').click(function(){
+			$('#'+$(this).attr('rel')).filter(':not(:animated)').slideToggle('slow');
+			$(this).children('span').filter(':not(:animated)').toggleClass('greyarrow-down');
+		});
+		$('.services').click(function(){
+			var serv = $(this).attr('href');
+			$('#'+serv).slideToggle();
+		});
+		
+	});
+	function showints () {
+		$('.in-bg').slideUp('slow');
+		$('.in-int').slideDown('fast');
+	}
+	function showbgs () {
+		$('.in-int').slideUp('slow');
+		$('.in-bg').slideDown('fast');
+	}
+	
+	function showalls () {
+		$('.in-bg').slideDown('fast');
+		$('.in-int').slideDown('fast');
+	}
+	
+	$(window).on('load', function() {
+   $("#cover").hide();
+});
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7038211-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body oncopy="return false" oncut="return false" onpaste="return false">
+<button onclick="topFunction()" id="myBtn" title="Обратно в началото на страницата"><i class="fa fa-chevron-up"></i></button>
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/bg_BG/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+	<header>
+		<div id="header">
+			<div id="header_top">
+				<div id="header_top_content">
+					<div id="top_hrefs">
+					<div class="top-nav">
+		<div class="container no-padding">
+			<div class="row">
+				<div class="top-left col-md-12  col-lg-6  d-flex justify-content-start">
+					<nav class="nav group top-links">
+						<a class="" href="http://focus-radio.net/" target="_blank">RADIO</a>
+						<!-- <a class="" href="http://www.focus-fen.net/" target="_blank">FEN</a> -->
+						<a class="" href="http://www.focus-press.net/" target="_blank">PRESS</a>
+						<!--<a class="" href="http://www.focus-monitoring.net/" target="_blank">MONITORING</a>-->
+						<a class="listen-online" href="http://focus-radio.net/online-radio/" target="_blank">СЛУШАЙ<br>ОНЛАЙН</a>									
+					</nav>
+					<div class=" dropdown top-nav-dropdown mobile-only">
+						<a class=" dropdown-toggle" href="http://focus-radio.net/" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_blank">RADIO</a>
+						<div class="dropdown-menu" aria-labelledby="dropdown01">
+						<nav class=" group">
+							<a class="" href="http://focus-radio.net/" target="_blank">RADIO</a>
+							<!--<a class="" href="http://www.focus-fen.net/" target="_blank">FEN</a>-->
+							<a class="" href="http://www.focus-press.net/" target="_blank">PRESS</a>
+							<!--<a class="" href="http://www.focus-monitoring.net/" target="_blank">MONITORING</a>-->					
+						</nav>
+						</div>
+					</div>
+					<nav class="nav group mobile-only">						
+						<a class="listen-online" href="http://focus-radio.net/online-radio/" target="_blank">СЛУШАЙ<br>ОНЛАЙН</a>									
+					</nav>
+					
+				</div>
+				<div class="top-right col-md-12  col-lg-6  d-flex justify-content-end">
+					<div class="search">
+					<div id="search_form_holder">
+							<form id="searchform" class="form-inline mt-2 mt-md-0" enctype="application/x-www-form-urlencoded" action="/404/" method="post">
+								<input type="text" class="form-control mr-sm-2" id="keyword" name="keyword" tabindex="1" placeholder="Търсите нещо?" aria-label="Търсите нещо?"/>
+								<button class="btn search-submit" type="submit" id="search_button"></button>
+							</form>
+						</div> 
+					</div>
+					<div class="lang"><a class="" style="display:none;" href="http://www.focus-fen.net/" target="_blank">EN</a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+					</div>
+					<div id="planet" class="spritepng"></div>
+				</div>
+			</div>
+			<div class="container  no-padding">
+		<div class="clearfix logo-wrap">
+					<a class="logo-top" href="./"><img src="img/focus-logo.png" alt=""></a>
+					<div class="top_adv_holder">
+						<ins data-revive-zoneid="1" data-revive-id="7f68696ffbe75fafcd11bbda97cbeb89"></ins>
+						<script async src="//ads2.focus-news.net/adnetwork/www/delivery/asyncjs.php"></script>
+					</div>
+					 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main_menu" aria-controls="main_menu" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				  </button>
+		</div>
+	</div>
+	<div class="nav-scroller mobile-only clearfix">
+		<div class="container clearfix no-padding">
+			<ul>
+				<li class="home" ><a href="#"></a></li>
+			</ul>
+			<div class="search">
+				 <form class="form-inline mt-2 mt-md-0">
+					<input class="form-control " type="text" placeholder="Търсите нещо?" aria-label="Търсите нещо?">
+					<button class="btn search-submit" type="submit"> </button>
+				  </form>
+			</div>
+		</div>
+	   </div>
+    <div class="container no-padding">
+	  <div class="nav-scroller ">
+			<nav class="nav main-menu navbar navbar-expand-lg" >
+			 
+			  <div class="collapse navbar-collapse" id="main_menu">
+										  <ul>
+					  <li class="home"><a href="./"></a></li>
+					  						<li><a class="menu68" href="./categories/68/Institutions/">Институции</a></li>                                              
+																															</li>
+																                                                                </li>
+																                                                                </li>	
+																															
+														<li><a class="menu80" href="./categories/80/Politics/">Политика</a></li>                                              
+																															</li>
+																                                                                </li>
+																                                                                </li>	
+																															
+														<li><a class="menu86" href="./categories/86/Economy/">Икономика</a></li>                                              
+																															</li>
+																                                                                </li>
+																                                                                </li>	
+																															
+														<li><a class="menu121" href="./categories/121/Health-services/">Здравеопазване</a></li>                                              
+																															</li>
+																                                                                </li>
+																                                                                </li>	
+																															
+														<li><a class="menu110" href="./categories/110/Security/">Сигурност</a></li>                                              
+																															</li>
+																                                                                </li>
+																                                                                </li>	
+																															
+														<li><a class="menu171" href="./categories/171/Society/">Общество</a></li>                                              
+																															</li>
+																                                                                </li>
+																                                                                </li>	
+																															
+														<li><a class="menu140" href="./categories/140/The-Country/">Страната</a></li>                                              
+																															</li>
+																																	
+                                                                     <li class="dropdown">
+                                                                     <div id="sub140" style="border:1px solid #aaaaaa;display:none; margin-top:30px; margin-left:-66px; z-index:100; position:absolute; background-color:#ffffff;width:550px;overflow:hidden;" class="dropdown">
+                                                                         <div style="float:left;overflow:hidden;margin-right:0px;width:150px;">
+                                                                         <a href="./categories/179/Dobrich/" data-id="179" class="submenuLink">Добрич</a>                                                                         
+                                                                         </div>
+                                                                            
+                        <div class="subMenuBoxes" data-id="179" id="subCat179" style="margin-left:-1px;float:left;padding-left:20px;overflow:hidden;margin-bottom:20px;">
+                             <div style="margin-left:-1px;float:left;padding:20px;width:310px;margin-top:5px;overflow:hidden;">
+                                <div class="news_img position-relative"><a href="http://www.focus-news.net/news/2020/09/07/2803625/osiguren-e-bezplaten-transport-za-grazhdanite-i-gostite-na-dobrich-za-panihidata-na-voennoto-grobishte-muzey.html"><img src="http://images.focus-news.net/af8c70b566a5e4ce34dfcd5a22cf3d44.jpg" width="310"></a></div>
+                                <h2 class="news_title red-border"><a href="http://www.focus-news.net/news/2020/09/07/2803625/osiguren-e-bezplaten-transport-za-grazhdanite-i-gostite-na-dobrich-za-panihidata-na-voennoto-grobishte-muzey.html">Осигурен е безплатен транспорт за гражданите и гостите на Добрич за панихидата на Военното гробище музей </a></h2>
+                                <div class="news_date">
+                                    7 Септември 2020 | 07:46 | Агенция "Фокус"
+                                </div>
+                            </div>
+                         </div>
+                        																			<div class="see-all-cities"><a href="./categories/140/The-Country/">Виж Всички</a></div>
+                                                                     </div>
+                                                                                                                                    </li>
+																                                                                </li>	
+																															
+														<li><a class="menu134" href="./categories/134/International-news/">Международни новини</a></li>                                              
+																															</li>
+																                                                                </li>
+																																	
+                                                                     <li class="dropdown">
+                                                                     <div id="sub134" style="border:1px solid #aaaaaa;display:none; margin-top:30px; margin-left:-161px; z-index:100; position:absolute; background-color:#ffffff;width:550px;overflow:hidden;" class="dropdown">
+                                                                         <div style="float:left;overflow:hidden;margin-right:0px;width:150px;">
+                                                                         <a href="./categories/122/The-Balkans/" data-id="122" class="submenuLink">Балкани</a><a href="./categories/142/World/" data-id="142" class="submenuLink">Свят</a>                                                                         
+                                                                         </div>
+                                                                            
+                        <div class="subMenuBoxes" data-id="122" id="subCat122" style="margin-left:-1px;float:left;padding-left:20px;overflow:hidden;margin-bottom:20px;">
+                             <div style="margin-left:-1px;float:left;padding:20px;width:310px;margin-top:5px;overflow:hidden;">
+                                <div class="news_img position-relative"><a href="http://www.focus-news.net/news/2020/09/07/2803619/al-jazeera-turtsiya-zapochna-suhopatni-ucheniya-sredizemnomorska-burya-v-severen-kipar.html"><img src="http://images.focus-news.net/68d61df4d4b28baf7ea15fa8fee060b6.jpg" width="310"></a></div>
+                                <h2 class="news_title red-border"><a href="http://www.focus-news.net/news/2020/09/07/2803619/al-jazeera-turtsiya-zapochna-suhopatni-ucheniya-sredizemnomorska-burya-v-severen-kipar.html">Al Jazeera: Турция започна сухопътни учения „Средиземноморска буря“ в Северен Кипър</a></h2>
+                                <div class="news_date">
+                                    7 Септември 2020 | 07:35 | Агенция "Фокус"
+                                </div>
+                            </div>
+                         </div>
+                        
+                        <div class="subMenuBoxes" data-id="142" id="subCat142" style="display:none;margin-left:-1px;float:left;padding-left:20px;overflow:hidden;margin-bottom:20px;">
+                             <div style="margin-left:-1px;float:left;padding:20px;width:310px;margin-top:5px;overflow:hidden;">
+                                <div class="news_img position-relative"><a href="http://www.focus-news.net/news/2020/09/07/2803627/johns-hopkins-poveche-ot-27-miliona-dushi-po-sveta-sa-zarazeni-s-covid-19.html"><img src="http://images.focus-news.net/77012cba236b3cdeac2ca60c86013063.jpg" width="310"></a></div>
+                                <h2 class="news_title red-border"><a href="http://www.focus-news.net/news/2020/09/07/2803627/johns-hopkins-poveche-ot-27-miliona-dushi-po-sveta-sa-zarazeni-s-covid-19.html">Johns Hopkins: Повече от 27 милиона души по света са заразени с Covid-19</a></h2>
+                                <div class="news_date">
+                                    7 Септември 2020 | 07:50 | Агенция "Фокус"
+                                </div>
+                            </div>
+                         </div>
+                        																			<div class="see-all-cities"><a href="./categories/134/International-news/">Виж Всички</a></div>
+                                                                     </div>
+                                                                                                                                    </li>	
+																															
+														<li><a class="menu204" href="./categories/204/Sport/">Спорт</a></li>                                              
+																															</li>
+																                                                                </li>
+																                                                                </li>	
+																															
+														<li><a class="menu205" href="./categories/205/Patriotism/">Родолюбие</a></li>                                              
+																															</li>
+																                                                                </li>
+																                                                                </li>	
+																															
+														<li><a class="menu104" href="./categories/104/Interesting/">Интересно</a></li>                                              
+																															</li>
+																                                                                </li>
+																                                                                </li>	
+																															
+														<li><a class="menu159" href="./categories/159/Traffic/">Трафик</a></li>                                              
+																															</li>
+																                                                                </li>
+																                                                                </li>	
+																															
+														<li><a class="menu172" href="./categories/172/Weather/">Времето</a></li>                                              
+																															</li>
+																                                                                </li>
+																                                                                </li>	
+																															
+													  <li><a class="" href="./opinion/">Мнение</a></li>
+				  </ul>
+				</div>					 
+
+			</nav>
+		</div>
+	</div>
+	</header>
+  </div>
+	<div class="container  no-padding">
+	<div class="row most-read">
+    <div class="col-md-12">
+	<div class="label-top"><a href="./news/Mostreaded/" class="category-title">НАЙ-ЧЕТЕНИТЕ НОВИНИ ДО 07:51</a></div>
+	  <div class="slider-most_read-wrap">
+		<div class="slider-most_read">
+		   			<div class="news-wrap ">	
+				<div class="news_img position-relative"><a href="./news/2020/09/07/2803618/navarshvat-se-104-godini-ot-dobrichkata-epopeya.html" class="top-news-kare" title="Навършват се 104 години от Добричката епопея"><img src="http://images.focus-news.net/1/8ab8e5d2682b460e267a338eb86980ca.jpg" alt="2020-09-07 07:34:09" style="width: 170px; height: 160px;" /></a>
+				</div>
+			  <h2 class="news_title"><a href="./news/2020/09/07/2803618/navarshvat-se-104-godini-ot-dobrichkata-epopeya.html" class="top-news-kare" title="Навършват се 104 години от Добричката епопея">Навършват се 104 години от Добричката еп...</a></h2>
+				<div class="news_date">7 Септември 2020 | 07:34</div>
+			</div>
+						<div class="news-wrap ">	
+				<div class="news_img position-relative"><a href="./news/2020/09/07/2803613/otbelyazvame-mezhdunarodniya-den-na-chistiya-vazduh-za-sinyo-nebe.html" class="top-news-kare" title="Отбелязваме Международния ден на чистия въздух за синьо небе "><img src="http://images.focus-news.net/1/ab74f79fa08cf3b25e852d2145cdaca6.jpg" alt="2020-09-07 07:21:21" style="width: 170px; height: 160px;" /></a>
+				</div>
+			  <h2 class="news_title"><a href="./news/2020/09/07/2803613/otbelyazvame-mezhdunarodniya-den-na-chistiya-vazduh-za-sinyo-nebe.html" class="top-news-kare" title="Отбелязваме Международния ден на чистия въздух за синьо небе ">Отбелязваме Международния ден на чистия ...</a></h2>
+				<div class="news_date">7 Септември 2020 | 07:21</div>
+			</div>
+						<div class="news-wrap ">	
+				<div class="news_img position-relative"><a href="./news/2020/09/07/2803612/vazstanovyava-se-dvizhenieto-po-yuzhnata-daga-na-sofiya-v-uchastaka-mezhdu-zhk-mladost-i-am-trakiya.html" class="top-news-kare" title="Възстановява се движението по Южната дъга на София в участъка между ж.к. „Младост” и АМ „Тракия”"><img src="http://images.focus-news.net/1/4752b813f77d23df852740b2587afd6a.jpg" alt="2020-09-07 07:13:14" style="width: 170px; height: 160px;" /></a>
+				</div>
+			  <h2 class="news_title"><a href="./news/2020/09/07/2803612/vazstanovyava-se-dvizhenieto-po-yuzhnata-daga-na-sofiya-v-uchastaka-mezhdu-zhk-mladost-i-am-trakiya.html" class="top-news-kare" title="Възстановява се движението по Южната дъга на София в участъка между ж.к. „Младост” и АМ „Тракия”">Възстановява се движението по Южната дъг...</a></h2>
+				<div class="news_date">7 Септември 2020 | 07:13</div>
+			</div>
+						<div class="news-wrap ">	
+				<div class="news_img position-relative"><a href="./news/2020/09/07/2803614/denyat-7-septemvri-v-balgarskata-istoriya.html" class="top-news-kare" title="Денят 7 септември в българската история"><img src="http://images.focus-news.net/1/8f2de1b5ef553f8916d9803f95b370b5.jpg" alt="2020-09-07 07:25:40" style="width: 170px; height: 160px;" /></a>
+				</div>
+			  <h2 class="news_title"><a href="./news/2020/09/07/2803614/denyat-7-septemvri-v-balgarskata-istoriya.html" class="top-news-kare" title="Денят 7 септември в българската история">Денят 7 септември в българската история</a></h2>
+				<div class="news_date">7 Септември 2020 | 07:25</div>
+			</div>
+						<div class="news-wrap ">	
+				<div class="news_img position-relative"><a href="./news/2020/09/07/2803615/vremenno-dvizhenieto-pri-km-444-na-pat-i-6-karnobat-venets-e-ogranicheno-poradi-avariral-avtomobil.html" class="top-news-kare" title="Временно движението при км 444 на път I-6 Карнобат - Венец е ограничено поради аварирал автомобил"><img src="http://images.focus-news.net/1/900e9385528b33a669575ce2807c2c76.jpg" alt="2020-09-07 07:30:05" style="width: 170px; height: 160px;" /></a>
+				</div>
+			  <h2 class="news_title"><a href="./news/2020/09/07/2803615/vremenno-dvizhenieto-pri-km-444-na-pat-i-6-karnobat-venets-e-ogranicheno-poradi-avariral-avtomobil.html" class="top-news-kare" title="Временно движението при км 444 на път I-6 Карнобат - Венец е ограничено поради аварирал автомобил">Временно движението при км 444 на път I-...</a></h2>
+				<div class="news_date">7 Септември 2020 | 07:30</div>
+			</div>
+						<div class="news-wrap ">	
+				<div class="news_img position-relative"><a href="./news/2020/09/07/2803609/predstoyashti-sabitiya-v-stranata-za-7-septemvri-agentsiya-fokus.html" class="top-news-kare" title="Предстоящи събития в страната за 7 септември (Агенция „Фокус“)"><img src="http://images.focus-news.net/1/6a8e714dd8e5b483a931fed6481c5a74.jpg" alt="2020-09-07 07:00:01" style="width: 170px; height: 160px;" /></a>
+				</div>
+			  <h2 class="news_title"><a href="./news/2020/09/07/2803609/predstoyashti-sabitiya-v-stranata-za-7-septemvri-agentsiya-fokus.html" class="top-news-kare" title="Предстоящи събития в страната за 7 септември (Агенция „Фокус“)">Предстоящи събития в страната за 7 септе...</a></h2>
+				<div class="news_date">7 Септември 2020 | 07:00</div>
+			</div>
+						<div class="news-wrap ">	
+				<div class="news_img position-relative"><a href="./news/2020/09/07/2803607/gd-granichna-politsiya-intenziven-e-trafikat-za-tovarni-avtomobili-na-izhod-na-gkpp-kalotina-i-gkpp-lesovo.html" class="top-news-kare" title="ГД „Гранична полиция“: Интензивен е трафикът за товарни автомобили на изход на ГКПП „Калотина“ и ГКПП „Лесово“"><img src="http://images.focus-news.net/1/4cbae87c980cced3bc7755784c46bc7f.jpg" alt="2020-09-07 06:46:00" style="width: 170px; height: 160px;" /></a>
+				</div>
+			  <h2 class="news_title"><a href="./news/2020/09/07/2803607/gd-granichna-politsiya-intenziven-e-trafikat-za-tovarni-avtomobili-na-izhod-na-gkpp-kalotina-i-gkpp-lesovo.html" class="top-news-kare" title="ГД „Гранична полиция“: Интензивен е трафикът за товарни автомобили на изход на ГКПП „Калотина“ и ГКПП „Лесово“">ГД „Гранична полиция“: Интензивен е траф...</a></h2>
+				<div class="news_date">7 Септември 2020 | 06:46</div>
+			</div>
+						<div class="news-wrap ">	
+				<div class="news_img position-relative"><a href="./news/2020/09/07/2803617/predstoyashti-mezhdunarodni-sabitiya-za-7-septemvri-agentsiya-fokus.html" class="top-news-kare" title="Предстоящи международни събития за 7 септември  (Агенция "Фокус")"><img src="http://images.focus-news.net/1/594027710a22b8e6ede555593b3de1d8.jpg" alt="2020-09-07 07:34:08" style="width: 170px; height: 160px;" /></a>
+				</div>
+			  <h2 class="news_title"><a href="./news/2020/09/07/2803617/predstoyashti-mezhdunarodni-sabitiya-za-7-septemvri-agentsiya-fokus.html" class="top-news-kare" title="Предстоящи международни събития за 7 септември  (Агенция "Фокус")">Предстоящи международни събития за 7 сеп...</a></h2>
+				<div class="news_date">7 Септември 2020 | 07:34</div>
+			</div>
+						<div class="news-wrap ">	
+				<div class="news_img position-relative"><a href="./news/2020/09/07/2803608/aktualna-patna-obstanovka.html" class="top-news-kare" title="Актуална пътна обстановка "><img src="http://images.focus-news.net/1/040842513e9384c3ce6abf421a4798a0.jpg" alt="2020-09-07 06:54:44" style="width: 170px; height: 160px;" /></a>
+				</div>
+			  <h2 class="news_title"><a href="./news/2020/09/07/2803608/aktualna-patna-obstanovka.html" class="top-news-kare" title="Актуална пътна обстановка ">Актуална пътна обстановка </a></h2>
+				<div class="news_date">7 Септември 2020 | 06:54</div>
+			</div>
+						<div class="news-wrap ">	
+				<div class="news_img position-relative"><a href="./news/2020/09/07/2803606/vremenno-e-ogranicheno-dvizhenieto-po-pat-ii-82-borovets-dolna-banya-poradi-patnotransportno-proizshestvie.html" class="top-news-kare" title="Временно е ограничено движението по път II-82 Боровец - Долна баня поради пътнотранспортно произшествие"><img src="http://images.focus-news.net/1/9742499bdd7d5a524f8eeb3743a55649.jpg" alt="2020-09-07 06:38:51" style="width: 170px; height: 160px;" /></a>
+				</div>
+			  <h2 class="news_title"><a href="./news/2020/09/07/2803606/vremenno-e-ogranicheno-dvizhenieto-po-pat-ii-82-borovets-dolna-banya-poradi-patnotransportno-proizshestvie.html" class="top-news-kare" title="Временно е ограничено движението по път II-82 Боровец - Долна баня поради пътнотранспортно произшествие">Временно е ограничено движението по път ...</a></h2>
+				<div class="news_date">7 Септември 2020 | 06:38</div>
+			</div>
+						<div class="news-wrap ">	
+				<div class="news_img position-relative"><a href="./news/2020/09/07/2803605/vremenno-dvizhenieto-po-pat-i-8-dragoman-slivnitsa-se-osashtestvyava-v-edna-lenta-i-povisheno-vnimanie-poradi-patnotransportno-proizshestvie.html" class="top-news-kare" title="Временно движението по път I-8 Драгоман - Сливница се осъществява в една лента и повишено внимание поради пътнотранспортно произшествие"><img src="http://images.focus-news.net/1/9013e8cdae53e29f338c87d1c87f216a.JPG" alt="2020-09-07 06:38:13" style="width: 170px; height: 160px;" /></a>
+				</div>
+			  <h2 class="news_title"><a href="./news/2020/09/07/2803605/vremenno-dvizhenieto-po-pat-i-8-dragoman-slivnitsa-se-osashtestvyava-v-edna-lenta-i-povisheno-vnimanie-poradi-patnotransportno-proizshestvie.html" class="top-news-kare" title="Временно движението по път I-8 Драгоман - Сливница се осъществява в една лента и повишено внимание поради пътнотранспортно произшествие">Временно движението по път I-8 Драгоман ...</a></h2>
+				<div class="news_date">7 Септември 2020 | 06:38</div>
+			</div>
+						<div class="news-wrap ">	
+				<div class="news_img position-relative"><a href="./news/2020/09/06/2803589/unikalni-retro-avtomobili-byaha-predstaveni-po-vreme-na-randevu-avgusta-trayana-v-stara-zagora.html" class="top-news-kare" title="Уникални ретро автомобили бяха представени по време на Рандеву „Августа Траяна“ в Стара Загора"><img src="http://images.focus-news.net/1/51425ad418a4492cdae40765b6a13cd0.jpg" alt="2020-09-06 19:16:30" style="width: 170px; height: 160px;" /></a>
+				</div>
+			  <h2 class="news_title"><a href="./news/2020/09/06/2803589/unikalni-retro-avtomobili-byaha-predstaveni-po-vreme-na-randevu-avgusta-trayana-v-stara-zagora.html" class="top-news-kare" title="Уникални ретро автомобили бяха представени по време на Рандеву „Августа Траяна“ в Стара Загора">Уникални ретро автомобили бяха представе...</a></h2>
+				<div class="news_date">6 Септември 2020 | 19:16</div>
+			</div>
+					</div>
+		<div class="nav-arrows">
+				<a href="#" class="arrow-left slick-arrow" style="display: inline-block;"></a><a href="#" class="arrow-right slick-arrow" style="display: inline-block;"></a>
+			</div>
+    </div>
+  </div>
+  </div>
+ </div>
+				<main role="main" class="container no-padding single-page">
+		<div class="divider"></div>
+			<div class="row">
+		<div class="col-md-8 news-main">
+		<div class="row single_wrap">
+			<div class="col-md-12">
+				<div class="row ">
+					<div class="col-md-12 main-news">
+						<div class="module_heading">
+									<h3 class="blue">ГРЕШКА 404</h3>						
+								</div>
+									<div class="news-text">
+										<div class="inside-left-content">
+											<div class="spritepng-ins inside-holder-shadow"></div>
+												<div class="print-content font-resize-content">
+													<div class="inside-body-content jstf">
+												<strong>За съжаление, страницата, която търсите не беше намерена</strong>
+												<p>Страницата, която търсите вероятно е премахната, името й е променено или е временно недостъпна. Моля, опитайте следното:</p>
+												
+												<ul>
+													<li>Използвайте бутона Назад на Вашия браузър, за да се върнете на предишната посетена страница</li>
+													<li>Върнете се на <a href="./">началната страница</a></li>
+												</ul>
+												<p>Ако смятате, че не можете да достигнете желаната от Вас страница поради наша грешка моля, <a href="http://www.focus-news.net/static1/kontakti/">да ни уведомите</a>.</p>
+											</div>
+											   </div>
+										</div>
+								   </div>
+					</div>
+				</div>
+				<div class="single-meta"> 
+						<div class="row">
+							<div class="d-flex col-md-6 justify-content-start">
+							<span class="print-wrap"><a href="#" onclick="printPage()" class="print">Принтирай &nbsp;&nbsp;<img src="img/print.jpg"></a>
+							</span>
+							<span class="font-change-wrap">Оразмери текст &nbsp;
+							<a href="#" class="change_font fontSizePlus"> + </a><a href="#" class="change_font fontSizeMinus"> - </a>
+							</span>
+							</div>
+							<div class="d-flex col-md-6 justify-content-end share-wrap"><span>Сподели:</span> <div class="addthis_inline_share_toolbox"></div> </div>
+						</div>
+				</div>
+			</div>
+		</div>
+    </div><!-- /.site-main -->
+			<aside class="col-md-4 sidebar">
+	<div class="module">
+		<div class="module_content">
+		<div class="label red-inner">АКЦЕНТИ</div>
+			<div class="row">
+							<div class="col-md-6">
+					<div class="row news_wrap">
+						<div class="col-md-12">
+							<div class="news_img position-relative"><a href="./news/2020/09/07/2803616/39-sa-potvardenite-sluchai-na-koronavirus-v-balgariya-prez-izminaloto-denonoshtie.html" title="39 са потвърдените случаи на коронавирус в България през изминалото денонощие" class=""><img class="home-news-small" src="http://images.focus-news.net/1/12ea2b694b41ed4421b58348a17c0b4f.jpg"></a></div>
+						</div>
+						<div class="col-md-12">						
+							<h3 class="news_title red-border"><a class="news-hour" style="font-size: 16px; line-height: 18px;" href="./news/2020/09/07/2803616/39-sa-potvardenite-sluchai-na-koronavirus-v-balgariya-prez-izminaloto-denonoshtie.html" title="39 са потвърдените случаи на коронавирус в България през изминалото денонощие">39 са потвърдените случаи на коронавирус в България през изминалото денонощие</a></h3>
+							<div class="news_date">7 Септември 2020 | 07:31</div>
+						</div>
+					</div>
+				</div>
+								<div class="col-md-6">
+					<div class="row news_wrap">
+						<div class="col-md-12">
+							<div class="news_img position-relative"><a href="./news/2020/09/07/2803610/nimh-dnes-shte-bade-slanchevo-maksimalnite-temperaturi-shte-sa-mezhdu-28-i-33.html" title="НИМХ: Днес ще бъде слънчево, максималните температури ще са между 28° и 33°" class=""><img class="home-news-small" src="http://images.focus-news.net/1/811eabbca4ea8fece94313e87afe93fd.jpg"></a></div>
+						</div>
+						<div class="col-md-12">						
+							<h3 class="news_title red-border"><a class="news-hour" style="font-size: 16px; line-height: 18px;" href="./news/2020/09/07/2803610/nimh-dnes-shte-bade-slanchevo-maksimalnite-temperaturi-shte-sa-mezhdu-28-i-33.html" title="НИМХ: Днес ще бъде слънчево, максималните температури ще са между 28° и 33°">НИМХ: Днес ще бъде слънчево, максималните температури ще са между 28° и 33°</a></h3>
+							<div class="news_date">7 Септември 2020 | 07:03</div>
+						</div>
+					</div>
+				</div>
+								<div class="col-md-6">
+					<div class="row news_wrap">
+						<div class="col-md-12">
+							<div class="news_img position-relative"><a href="./news/2020/09/06/2803600/al-jazeera-turtsiya-zapochna-suhopatni-ucheniya-sredizemnomorska-burya-v-severen-kipar.html" title="Al Jazeera: Турция започна сухопътни учения „Средиземноморска буря“ в Северен Кипър" class=""><img class="home-news-small" src="http://images.focus-news.net/1/68d61df4d4b28baf7ea15fa8fee060b6.jpg"></a></div>
+						</div>
+						<div class="col-md-12">						
+							<h3 class="news_title red-border"><a class="news-hour" style="font-size: 16px; line-height: 18px;" href="./news/2020/09/06/2803600/al-jazeera-turtsiya-zapochna-suhopatni-ucheniya-sredizemnomorska-burya-v-severen-kipar.html" title="Al Jazeera: Турция започна сухопътни учения „Средиземноморска буря“ в Северен Кипър">Al Jazeera: Турция започна сухопътни учения „Средиземноморска буря“ в Северен Ки...</a></h3>
+							<div class="news_date">6 Септември 2020 | 21:38</div>
+						</div>
+					</div>
+				</div>
+								<div class="col-md-6">
+					<div class="row news_wrap">
+						<div class="col-md-12">
+							<div class="news_img position-relative"><a href="./news/2020/09/06/2803596/prezidentat-rumen-radev-saedinenieto-e-neobratim-akt-a-balgarite-sa-gotovi-da-otstoyavat-svobodata-si-dnes-budna-balgariya-preotkriva-silata-na-deviza-saedinenieto-pravi-silata.html" title="Президентът Румен Радев: Съединението е необратим акт, а българите са готови да отстояват свободата си, днес будна България преоткрива силата на девиза „Съединението прави силата“" class=""><img class="home-news-small" src="http://images.focus-news.net/1/62163584d7d1e5c5dfb46ec31f1088d5.jpg"></a></div>
+						</div>
+						<div class="col-md-12">						
+							<h3 class="news_title red-border"><a class="news-hour" style="font-size: 16px; line-height: 18px;" href="./news/2020/09/06/2803596/prezidentat-rumen-radev-saedinenieto-e-neobratim-akt-a-balgarite-sa-gotovi-da-otstoyavat-svobodata-si-dnes-budna-balgariya-preotkriva-silata-na-deviza-saedinenieto-pravi-silata.html" title="Президентът Румен Радев: Съединението е необратим акт, а българите са готови да отстояват свободата си, днес будна България преоткрива силата на девиза „Съединението прави силата“">Президентът Румен Радев: Съединението е необратим акт, а българите са готови да ...</a></h3>
+							<div class="news_date">6 Септември 2020 | 20:56</div>
+						</div>
+					</div>
+				</div>
+							</div>
+		</div>
+	</div>
+	<div class="module">
+		<div class="module_content banner">
+			<ins data-revive-zoneid="2" data-revive-id="7f68696ffbe75fafcd11bbda97cbeb89"></ins>
+			<script async src="//ads2.focus-news.net/adnetwork/www/delivery/asyncjs.php"></script>						
+		</div>
+		</div>
+	<div class="module pic_of_the_day">
+		<div class="module_heading ">
+			<h3 class="blue">СНИМКА НА ДЕНЯ</h3>
+`			<div class="see_all"><a href="./pictureoftheday/">Вижте всички снимки</a></div>				
+		</div>
+		<div class="module_content" style="position: relative;">
+							<div class="news_img position-relative">
+			<a href="http://images.focus-news.net/24146cd14f69238b97f8cea63e1c7c34.jpg" data-toggle="lightbox" title="Снимка: Facebook. Сръбският президент "седнал като ученик" пред Доналд Тръмп в Овалния кабинет">
+						<img src="http://images.focus-news.net/24146cd14f69238b97f8cea63e1c7c34.jpg" alt="Сръбският президент "седнал като ученик" пред Доналд Тръмп в Овалния кабинет" class="img-fluid" />
+					</a>
+					<div class="img-title">
+						Снимка: Facebook - Сръбският президент "седнал като ученик" пред Доналд Тръмп в Овалния кабинет					</div>
+					</div>
+						
+		</div>
+	</div>
+	<div class="module">
+		<div class="module_heading">
+			<h3 class="blue">Видео на деня</h3>
+		<div class="see_all"><a href="./videooftheday/">Вижте всички видеа</a></div>				
+		</div>
+		<div class="module_content">
+					<div class="news_img position-relative" style="margin-bottom: 25px;">
+				<a href="https://www.youtube.com/watch?v=gs3PZPjxkHg" data-toggle="lightbox" title="Източник: Bulgaria Travel. Антична Сердика">
+				    <span class="plr"></span>
+					<img src="http://img.youtube.com/vi/gs3PZPjxkHg/0.jpg" alt="Антична Сердика" class="img-fluid" />
+				</a>
+				<div class="img-title">
+					Източник: Bulgaria Travel. Антична Сердика						
+		</div>
+	</div>
+					<div class="more_img_oftd" style="display:none;">
+									<div class="mio-img-holder">
+						<a href="https://www.youtube.com/watch?v=4AxWujHgWwc&feature=youtu.be" rel="prettyPhoto['voftd']" title="Източник Agrozona.bg  и АЗПБ. New Campagnie 380">
+							<img src="http://img.youtube.com/vi/4AxWujHgWwc/1.jpg" alt="New Campagnie 380" />
+						</a>
+					</div>
+					<h2>
+						New Campagnie 3...					</h2>
+										<div class="mio-img-holder">
+						<a href="https://www.youtube.com/watch?v=ts99610tUK4&t=15s" rel="prettyPhoto['voftd']" title="Източник Българска агенция за инвестиции. Утвърждаване на България като успешна инвестиционна дестинация">
+							<img src="http://img.youtube.com/vi/ts99610tUK4/1.jpg" alt="Утвърждаване на България като успешна инвестиционна дестинация" />
+						</a>
+					</div>
+					<h2>
+						Утвърждаване на...					</h2>
+										<div class="mio-img-holder">
+						<a href="https://www.youtube.com/watch?v=yzTOvWu0pxg" rel="prettyPhoto['voftd']" title="Източник Agrozona.bg  и АЗПБ. ИЗБИРАМ 380 - кампания в подкрепа на производителите на български храни">
+							<img src="http://img.youtube.com/vi/yzTOvWu0pxg/3.jpg" alt="ИЗБИРАМ 380 - кампания в подкрепа на производителите на български храни" />
+						</a>
+					</div>
+					<h2>
+						ИЗБИРАМ 380 - к...					</h2>
+								</div>
+	</div>
+	   <div class="module">
+		<div class="module_content  banner">
+			<ins data-revive-zoneid="3" data-revive-id="7f68696ffbe75fafcd11bbda97cbeb89"></ins>
+			<script async src="//ads2.focus-news.net/adnetwork/www/delivery/asyncjs.php"></script>					
+		</div>
+	</div>
+	<div class="module">
+		<div class="module_heading ">
+			<h3 class="blue">ФОКУС ВЪВ FACEBOOK</h3>						
+		</div>
+		<div class="module_content">
+		<center>
+		<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFocusNewsAgency%2F&tabs&width=340&height=214&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=924021620997704" width="340" height="214" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+		</center>
+		</div>
+	</div>
+	</div>
+	<div class="module exchange_rate">
+		<div class="module_heading ">
+			<h3 class="blue">ВАЛУТНИ КУРСОВЕ ЗА 07.09.2020</h3>						
+		</div>
+		<div class="module_content">
+			<table class="table table-striped">
+			  <thead class="thead-light ">
+				<tr>
+				  <th scope="">Валута</th>
+				  <th scope=""></th>
+				  <th scope="">Купува</th>
+				  <th scope="">Продава</th>
+				</tr>
+			  </thead>
+			  <tbody class="">
+										<tr bgcolor="#eceded" style="height:15px;"><td>USD/BGN</td><td><img src="./img/sys/up.gif"></td><td><span style="color: #33a801">1.6524</span></td><td><span style="color: #33a801">1.6529</span></td></tr>
+												<tr bgcolor="#ffffff" style="height:15px;"><td>EUR/USD</td><td><img src="./img/sys/down.gif"></td><td><span style="color: red">1.1833</span></td><td><span style="color: red">1.1835</span></td></tr>
+												<tr bgcolor="#eceded" style="height:15px;"><td>USD/JPY</td><td><img src="./img/sys/same.gif"></td><td><span style="color: #000000">106.22</span></td><td><span style="color: #000000">106.26</span></td></tr>
+									  </tbody>
+			</table>	
+			<a href="http://www.deltastock.com/bulgaria/" class="link" target="_blank">Форекс информация от Делтасток</a>	
+		</div>
+	</div>
+	<div class="module">
+		<div class="module_content  banner">
+			<ins data-revive-zoneid="21" data-revive-id="7f68696ffbe75fafcd11bbda97cbeb89"></ins>
+			<script async src="//ads2.focus-news.net/adnetwork/www/delivery/asyncjs.php"></script>		
+		</div>
+	</div>
+	</div>
+</aside><!-- /.sidebar -->
+		
+				  </div><!-- /.row -->
+		</main><!-- /.container -->
+		<footer class="site-footer">
+	<div class="footer-top">
+		<div class="container no-padding">
+				<p class="copy">
+					&copy; 2020 Информационна агенция ФОКУС				</p>
+				<p class="jstf">
+					Съдържанието на Информационна агенция ФОКУС и технологиите, използвани в интернет страницата, са под закрилата на Закона за авторското право и сродните му права. Всички текстови, аудио, видео, фотографски и графични изображения, публикувани в базата данни, са собственост на Информационна агенция ФОКУС, освен ако изрично е посочено друго. ПОЛЗВАТЕЛИТЕ и АБОНАТИТЕ се задължават да използват материали от информационната база данни съгласно Общите условия на Информационна агенция ФОКУС и действащото в Република България законодателство.				</p>
+		</div>
+	</div>
+	<div class="top-nav" id="footer_nav">
+			<div class="container no-padding">
+				<div class="row footer-top-1">
+					<div class="top-left col-md-6  d-flex justify-content-start">
+					
+						<nav class="nav group">
+							<a class="footer-link" href="http://www.focus-radio.net/" target="_blank">RADIO</a>
+							<!-- <a class="footer-link" href="http://www.focus-fen.net/" target="_blank">FEN</a> -->
+							<a class="footer-link" href="http://www.focus-press.net/" target="_blank">PRESS</a>
+							<!-- <a class="footer-link" href="http://www.focus-monitoring.net/" target="_blank">MONITORING</a> -->
+														
+						</nav>
+					</div>
+					<div class="top-right col-md-6  d-flex justify-content-end">
+						<div class="footer-social-icons">
+							<ul class="social-icons">
+									<li><a href="https://www.facebook.com/pages/FOCUS-Information-Agency-Radio-network/1509509095944164" class="social-icon" target="_blank"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="https://twitter.com/FOCUSBG" class="social-icon" target="_blank"><i class="fa fa-twitter"></i></a></li>
+									<li><a href="./rssform/" class="social-icon" class="social-icon"><i class="fa fa-rss"></i></a></li>
+									<li><a href="http://www.youtube.com/channel/UC4KGTbmWo8lyCneriMxa2tw" class="social-icon"><i class="fa fa-youtube"></i></a></li>
+									<li><a href="/static1/kontakti/" class="social-icon"><i class="fa fa-envelope-o"></i></a></li>
+							</ul>
+						</div>
+						<div class="banners-footer">
+							<a class="" href="http://www.focus-news.net/img/fibep.jpg" data-toggle="lightbox"><img src="img/blue.png" alt=""></a>
+							<a class="" href="http://www.focus-news.net/img/fibep.jpg" data-toggle="lightbox"><img src="img/fibep.png" alt=""></a>
+							<a class="" href="http://www.focus-news.net/Images/loveMarks.jpg" data-toggle="lightbox"><img src="img/mylovemarks.png" alt="Любима Марка" class="img-fluid"></a>
+							<a class="" href="./static15/pravila-za-polzvane/" title="Политика за поверителност и защита на личните данни"><img src="img/gdpr.jpg" alt="GDPR"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="nav-scroller" id="footer_menu">
+				<div class="inner_wrap">
+					<div class="container no-padding ">
+						<nav class="nav main-menu">                                   
+						  <ul>
+							  <li class="home"><a href="./"></a></li>
+							  							  <li><a class="footer-menu" href="./static12/uslugi/" title="Услуги">Услуги</a></li>
+							  							  <li><a class="footer-menu" href="./static5/partniori/" title="Партньори">Партньори</a></li>
+							  							  <li><a class="footer-menu" href="./static4/tarifi/" title="Тарифи">Тарифи</a></li>
+							  							  <li><a class="footer-menu" href="./static16/radio-reklama/" title="Радио реклама">Радио реклама</a></li>
+							  							  <li><a class="footer-menu" href="./static3/za-nas/" title="За нас">За нас</a></li>
+							  							  <li><a class="footer-menu" href="./static15/pravila-za-polzvane/" title="Общи условия">Общи условия</a></li>
+							  							  <li><a class="footer-menu" href="./static10/jobs/" title="Кариери">Кариери</a></li>
+							  							  <li><a class="footer-menu" href="./static1/kontakti/" title="Контакти">Контакти</a></li>
+							  	  
+						  </ul>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+<script src="/js/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "rgb(241, 241, 241, 0.9)",
+      "text": "#1f1f1f"
+    },
+    "button": {
+      "background": "transparent",
+      "border": "#283f54",
+      "text": "#283f54"
+    }
+  },
+  "content": {
+    "message": "Този сайт използва бисквитки (cookies), за да Ви покажем съдържанието, което Ви интересува. Използвайки този сайт, Вие се съгласявате с нашите условия.",
+    "dismiss": "Приемам",
+    "link": "Научи повече",
+    "href": "http://focus-news.net/static15/pravila-za-polzvane/"
+  }
+});
+</script>
+</footer>
+		<script>
+		 $('.slider-most_read').slick({
+		   slidesToShow: 6,
+		   slidesToScroll: 6,
+		   arrows:true,
+		   autoplay: true,
+		   autoplaySpeed: 20000,
+		   dots:false,
+			prevArrow: $('.slider-most_read-wrap .arrow-left'),
+			nextArrow: $('.slider-most_read-wrap .arrow-right'),
+			 responsive: [
+			{
+			  breakpoint: 1024,
+			  settings: {
+				slidesToShow: 3,
+				slidesToScroll: 3,
+			  }
+			},
+			{
+			  breakpoint: 600,
+			  settings: {
+				slidesToShow: 2,
+				slidesToScroll: 2
+			  }
+			},
+			{
+			  breakpoint: 480,
+			  settings: {
+				slidesToShow: 1,
+				slidesToScroll: 1
+			  }
+			}
+		  ]
+		 });
+		 
+		$(document).ready(function () {
+				$('.dropdown-menu .left a').mouseenter(function(e){
+					e.preventDefault();
+					
+					var target = $(this).attr("data-target");
+					
+					$('.dropdown-menu .right .show').removeClass('show');
+					$(target).toggleClass('show');
+				})
+		});
+		
+		$('a[data-slide]').click(function(e) {
+   e.preventDefault();
+   var slideno = $(this).data('slide');
+   $('.slider-nav').slick('slickGoTo', slideno - 1);
+ });
+
+
+
+ // Remove active class from all thumbnail slides
+ $('.slider-nav .slick-slide').removeClass('slick-active');
+
+ // Set active class to first thumbnail slides
+ $('.slider-nav .slick-slide').eq(0).addClass('slick-active');
+
+ // On before slide change match active thumbnail to current slide
+ $('.slider-nav').on('beforeChange', function (event, slick, currentSlide, nextSlide) {
+ 	var mySlideNumber = nextSlide;
+ 	$('.slider-nav .slick-slide').removeClass('slick-active');
+ 	$('.slider-nav .slick-slide').eq(mySlideNumber).addClass('slick-active');
+});
+//Get the button
+var mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+		</script>
+		<script type="text/javascript">
+$(document).ready(function () {
+
+	//min font size
+	var min=12; 	
+
+	//max font size
+	var max=22;	
+	
+	//grab the default font size
+	var reset = $('.news-text p').css('fontSize'); 
+	
+	//font resize these elements
+	var elm = $('.news-text p');  
+	
+	//set the default font size and remove px from the value
+	var size = str_replace(reset, 'px', ''); 
+	
+	//Increase font size
+	$('a.fontSizePlus').click(function() {
+		
+		//if the font size is lower or equal than the max value
+		if (size<=max) {
+			
+			//increase the size
+			size++;
+			
+			//set the font size
+			elm.css({'fontSize' : size});
+		}
+		
+		//cancel a click event
+		return false;	
+		
+	});
+
+	$('a.fontSizeMinus').click(function() {
+
+		//if the font size is greater or equal than min value
+		if (size>=min) {
+			
+			//decrease the size
+			size--;
+			
+			//set the font size
+			elm.css({'fontSize' : size});
+		}
+		
+		//cancel a click event
+		return false;	
+		
+	});
+	
+	//Reset the font size
+	$('a.fontReset').click(function () {
+		
+		//set the default font size	
+		 elm.css({'fontSize' : reset});		
+	});
+		
+});
+
+//A string replace function
+function str_replace(haystack, needle, replacement) {
+	var temp = haystack.split(needle);
+	return temp.join(replacement);
+}
+
+$(document).on('click', '[data-toggle="lightbox"]', function(event) {
+                event.preventDefault();
+                $(this).ekkoLightbox();
+            });
+</script>
+<script>
+function printPage() {
+  window.print();
+}
+</script>
+		<script type="text/javascript"> 
+        
+		window.___gcfg = {lang: 'bg'};
+		
+		(function() {
+		  var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		  po.src = 'https://apis.google.com/js/plusone.js';
+		  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+		</script>
+</body>
+</html>	
+		
